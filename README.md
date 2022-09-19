@@ -8,4 +8,6 @@ I believe our biggest strengths as a team was our communication, we all made com
 
 For this project I collaborated in a group of three and took on different roles of the project. My role was to creat graphs using our dataset and make our results from the dataset look more visually appealing and better to understand. Overall we all helped eachother pur with the coding, dataset, jupyter, and Tableau. The machine learning model we used was Supervised, we knew somewhat what results we wanted to get and overall it worked very well with the dataset and our hypothesis. The dataset we used was on Suicide rates, it had the results from many countries ranging from many different years. The results answered our intial questions, 34-54 year olds, men, and first world countries are more suceptible to suicide.
 
+https://github.com/RosieMina/Final_project.git
+
 
